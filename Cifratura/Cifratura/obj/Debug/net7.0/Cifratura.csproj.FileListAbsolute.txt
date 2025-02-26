@@ -1,0 +1,14 @@
+C:\Users\PAZZAGLI.ANGELICA\Documents\Visual Studio 2022\Cifratura\Cifratura\bin\Debug\net7.0\Cifratura.exe
+C:\Users\PAZZAGLI.ANGELICA\Documents\Visual Studio 2022\Cifratura\Cifratura\bin\Debug\net7.0\Cifratura.deps.json
+C:\Users\PAZZAGLI.ANGELICA\Documents\Visual Studio 2022\Cifratura\Cifratura\bin\Debug\net7.0\Cifratura.runtimeconfig.json
+C:\Users\PAZZAGLI.ANGELICA\Documents\Visual Studio 2022\Cifratura\Cifratura\bin\Debug\net7.0\Cifratura.dll
+C:\Users\PAZZAGLI.ANGELICA\Documents\Visual Studio 2022\Cifratura\Cifratura\bin\Debug\net7.0\Cifratura.pdb
+C:\Users\PAZZAGLI.ANGELICA\Documents\Visual Studio 2022\Cifratura\Cifratura\obj\Debug\net7.0\Cifratura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PAZZAGLI.ANGELICA\Documents\Visual Studio 2022\Cifratura\Cifratura\obj\Debug\net7.0\Cifratura.AssemblyInfoInputs.cache
+C:\Users\PAZZAGLI.ANGELICA\Documents\Visual Studio 2022\Cifratura\Cifratura\obj\Debug\net7.0\Cifratura.AssemblyInfo.cs
+C:\Users\PAZZAGLI.ANGELICA\Documents\Visual Studio 2022\Cifratura\Cifratura\obj\Debug\net7.0\Cifratura.csproj.CoreCompileInputs.cache
+C:\Users\PAZZAGLI.ANGELICA\Documents\Visual Studio 2022\Cifratura\Cifratura\obj\Debug\net7.0\Cifratura.dll
+C:\Users\PAZZAGLI.ANGELICA\Documents\Visual Studio 2022\Cifratura\Cifratura\obj\Debug\net7.0\refint\Cifratura.dll
+C:\Users\PAZZAGLI.ANGELICA\Documents\Visual Studio 2022\Cifratura\Cifratura\obj\Debug\net7.0\Cifratura.pdb
+C:\Users\PAZZAGLI.ANGELICA\Documents\Visual Studio 2022\Cifratura\Cifratura\obj\Debug\net7.0\Cifratura.genruntimeconfig.cache
+C:\Users\PAZZAGLI.ANGELICA\Documents\Visual Studio 2022\Cifratura\Cifratura\obj\Debug\net7.0\ref\Cifratura.dll
