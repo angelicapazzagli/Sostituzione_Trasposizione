@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cifratura")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+431a7478ac065350bb2e43badc17d0f1a0c62002")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cifratura")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cifratura")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
